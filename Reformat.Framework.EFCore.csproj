@@ -30,6 +30,13 @@
 
     <ItemGroup>
       <ProjectReference Include="..\Reformat.Framework.Core\Reformat.Framework.Core.csproj" />
+
+
+
+
     </ItemGroup>
+
+
+
 
 </Project>
